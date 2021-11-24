@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file main da oi day 
+=======
+file thu nghiem cũng dã ở đay
+>>>>>>> thunghiem
